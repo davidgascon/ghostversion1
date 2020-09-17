@@ -1,6 +1,8 @@
 # ghostversion1
 
 Running on python 3.7
+NOX instances have to be in the resolution of 540x960.
+Screen resoluton for your windows computer has to be 1980x1080.
 
 Imports required are
 time
